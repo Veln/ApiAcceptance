@@ -22,3 +22,8 @@ mvn install
   - [IntelliJ](https://www.jetbrains.com/idea/)
   - [Visual Studio Code](https://code.visualstudio.com/)
 
+### Execute From Intellij
+
+Setup Intellij Run/Debug configuration which is shown bellow
+
+<img src="https://github.com/Veln/ApiAcceptance/blob/master/resources/APIAcceptance.png" height="600px"/>
