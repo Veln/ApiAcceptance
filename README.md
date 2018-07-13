@@ -27,3 +27,6 @@ mvn install
 Setup Intellij Run/Debug configuration which is shown bellow
 
 <img src="https://github.com/Veln/ApiAcceptance/blob/master/resources/APIAcceptance.png" height="600px"/>
+
+
+Once you setup everything in the IDE now click on Run button all the test will run. 
