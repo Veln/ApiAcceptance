@@ -18,7 +18,7 @@ mvn install
 
 - [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html) 8 
 - [Maven](http://maven.apache.org)
-- IDE (Choose any one)
+- IDE (Can be anything, however listed two bellow)
   - [IntelliJ](https://www.jetbrains.com/idea/)
   - [Visual Studio Code](https://code.visualstudio.com/)
 
