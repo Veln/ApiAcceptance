@@ -1,4 +1,4 @@
-# ApiAcceptance
+# API-Acceptance
 
 API Acceptance uses [karate](https://github.com/intuit/karate) version 0.7.0 and Java scripts
 
